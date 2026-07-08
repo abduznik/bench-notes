@@ -20,12 +20,7 @@ Thumbs.db
 .idea/
 
 # Obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/hotkeys.json
-.obsidian/graph.json
-.obsidian/plugins/
-.obsidian/themes/
+.obsidian/
 .trash/
 
 # Node
