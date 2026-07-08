@@ -2,6 +2,8 @@
 
 A personal digital garden. This is a notes log, not a polished blog. Written primarily for my own future reference — war stories, debugging notes, cross-domain pattern spotting, and small project writeups. If anyone else finds something useful here, that's a bonus.
 
+Many of these notes are drafted, refined, and formatted with AI assistance. The ideas, experiences, and hard-won lessons are mine — the polish is collaborative.
+
 ## Folder Structure
 
 - **rf/** — RF electronics, instrument debugging, GPIB/SCPI notes, hardware war stories
