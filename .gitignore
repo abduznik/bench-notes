@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Quartz build output
+quartz/public/
+.quartz-cache/
+
+# Quartz plugins (rebuilt on deploy)
+.quartz/plugins/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/graph.json
+.obsidian/plugins/
+.obsidian/themes/
+.trash/
+
+# Node
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
