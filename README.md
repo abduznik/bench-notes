@@ -1,3 +1,9 @@
+## Support This Project
+
+> **All projects made with passion** 💙
+
+[![Sponsor me](https://img.shields.io/badge/❤️%20Sponsor-GitHub-red?style=for-the-badge)](https://github.com/sponsors/abduznik)  
+
 # bench-notes
 
 A personal digital garden. This is a notes log, not a polished blog. Written primarily for my own future reference — war stories, debugging notes, cross-domain pattern spotting, and small project writeups. If anyone else finds something useful here, that's a bonus.
